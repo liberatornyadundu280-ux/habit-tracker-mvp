@@ -1,0 +1,13 @@
+habit-tracker-mvp/
+│
+├── frontend/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+│
+├── backend/
+│   ├── server.js
+│   └── package.json
+│
+├── README.md
+└── .gitignore
